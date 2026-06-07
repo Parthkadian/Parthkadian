@@ -1,29 +1,8 @@
 <div align="center">
 
-<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0f1a"/>
-      <stop offset="100%" style="stop-color:#1a0a2e"/>
-    </linearGradient>
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#A855F7"/>
-      <stop offset="50%" style="stop-color:#EC4899"/>
-      <stop offset="100%" style="stop-color:#06B6D4"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="120" rx="16" fill="url(#bg)"/>
-  <rect x="1" y="1" width="898" height="118" rx="15" fill="none" stroke="url(#text-grad)" stroke-width="1.5" opacity="0.6"/>
-  <text x="450" y="52" font-family="'Courier New', monospace" font-size="13" fill="#6B7280" text-anchor="middle">class</text>
-  <text x="450" y="52" font-family="'Courier New', monospace" font-size="13" fill="#A855F7" text-anchor="middle" dx="27">ParthKadian</text>
-  <text x="450" y="52" font-family="'Courier New', monospace" font-size="13" fill="#6B7280" text-anchor="middle" dx="68">:</text>
-  <text x="450" y="78" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="url(#text-grad)" text-anchor="middle">Parth Kadian</text>
-  <text x="450" y="105" font-family="'Courier New', monospace" font-size="12" fill="#9CA3AF" text-anchor="middle">🛡️ Fintech AI  ·  ⚖️ Legal Intelligence  ·  🫁 Medical Imaging</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:06B6D4&height=200&section=header&text=Parth%20Kadian&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Fintech%20%C2%B7%20Legal%20AI%20%C2%B7%20Medical%20Imaging&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### 🚀 AI/ML Engineer | Full-Stack Systems | Fintech · Legal AI · Medical Imaging
-
-*2nd Year B.Tech Student · Production-Ready AI Systems*
+### *2nd Year B.Tech Student · Summer Internship 2026 · Production-Ready AI Systems*
 
 </div>
 
@@ -429,17 +408,7 @@ Inference Engine
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg)
 
 </div>
 
----
-
-<div align="center">
-
-### 🚀 Let's Build Production AI Systems Together
-
-⚡ **Fintech · Legal AI · Medical Imaging** | Full-Stack Systems Architect  
-Parth Kadian © 2026
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:EC4899,100:7C3AED&height=120&section=footer&text=Let%27s%20Build%20Production%20AI%20Together&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
