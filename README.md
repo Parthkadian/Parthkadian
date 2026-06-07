@@ -33,7 +33,7 @@
 
 | 🎯 Currently | 🚀 Seeking | 🧠 Philosophy |
 |:---:|:---:|:---:|
-| Shipping PulmoVision AI — end-to-end lung segmentation | AI/ML Intern 2026 · Healthcare · Fintech · Legal | Data → Model → API → Dashboard → Production |
+| Shipping PulmoVision AI — end-to-end lung segmentation | AI/ML Inter 2026 · Healthcare · Fintech · Legal | Data → Model → API → Dashboard → Production |
 
 </div>
 
@@ -301,13 +301,12 @@ Streamlit Dashboard  ←→  FastAPI Backend
 
 <br/>
 
-**🚀 Available for AI/ML Summer Internship 2026**  
+**🚀 Available for AI/ML Intern 2026**  
 🎯 Fraud Detection (Fintech) · Legal Intelligence (NLP) · Medical Imaging (Deep Learning)  
 ⚡ Response time: usually within 24 hours
 
 <br/>
 
-[![Readme Quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+best+technology+is+honest+technology&author=Parth+Kadian)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
