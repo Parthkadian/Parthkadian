@@ -10,14 +10,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkadian2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthkadian)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthkadian)
-[![Open To Work](https://img.shields.io/badge/🟢_Open_To_Work-AI%2FML_Summer_2026-00C853?style=for-the-badge)](#)
+
 
 <br/>
 
 ![Location](https://img.shields.io/badge/📍_Gurugram-UTC%2B5:30-1a1a2e?style=flat-square&logoColor=white)
 ![Role](https://img.shields.io/badge/🎓_2nd_Year-AI_%26_ML_Student-7C3AED?style=flat-square)
 ![Focus](https://img.shields.io/badge/💡_Focus-FullStack_AI·Fintech·LegalAI·MedicalAI-0891b2?style=flat-square)
-![Target](https://img.shields.io/badge/🌍_Target-Summer_Internship_2026-16a34a?style=flat-square)
 ![Portfolio](https://img.shields.io/badge/⭐_Portfolio-3_Complete_Systems-f59e0b?style=flat-square)
 
 </div>
@@ -26,7 +25,7 @@
 
 ## 🧬 About Me
 
-> I'm a **2nd Year B.Tech AI & ML student** from Faridabad, India, building **production-ready AI systems** across three domains — Fintech, Legal Tech, and Medical Imaging.
+> I'm a **2nd Year B.Tech AI & ML student** from Gurugram, India, building **production-ready AI systems** across three domains — Fintech, Legal Tech, and Medical Imaging.
 >
 > I don't just train models. I architect complete end-to-end systems: **data pipelines → model training → REST APIs → interactive dashboards → Docker deployment**. Every project I ship is honest, evaluated on real held-out data, and production-grade from day one.
 
@@ -34,7 +33,7 @@
 
 | 🎯 Currently | 🚀 Seeking | 🧠 Philosophy |
 |:---:|:---:|:---:|
-| Shipping PulmoVision AI — end-to-end lung segmentation | AI/ML Summer Internship 2026 · Healthcare · Fintech · Legal | Data → Model → API → Dashboard → Production |
+| Shipping PulmoVision AI — end-to-end lung segmentation | AI/ML Intern 2026 · Healthcare · Fintech · Legal | Data → Model → API → Dashboard → Production |
 
 </div>
 
@@ -300,7 +299,9 @@ Streamlit Dashboard  ←→  FastAPI Backend
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthkadian)
 
-<br/> 
+<br/>
+
+**🚀 Available for AI/ML Summer Internship 2026**  
 🎯 Fraud Detection (Fintech) · Legal Intelligence (NLP) · Medical Imaging (Deep Learning)  
 ⚡ Response time: usually within 24 hours
 
