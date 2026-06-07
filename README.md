@@ -1,6 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Parth%20Kadian&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%7C%20Fintech%20%26%20Medical%20AI%20%7C%20Full-Stack%20Systems&descAlignY=62&descAlign=50&stroke=6E40C9&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=gradient&color=gradient&customColorList=6,11,20&height=240&section=header&text=Parth%20Kadian&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=6E40C9&strokeWidth=2" />
+
+<div align="center">
+
+### 🚀 AI/ML Engineer | Full-Stack Systems | Fintech · Legal AI · Medical Imaging
+
+*2nd Year B.Tech Student · Summer Internship 2026 · Production-Ready AI Systems*
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=900&lines=🚀+Full-Stack+AI+Systems+Across+3+Domains;🛡️+Fraud+Detection+·+⚖️+Legal+Intelligence+·+🫁+Medical+Imaging;⚡+XGBoost+·+BERT+·+Attention+U-Net+·+FastAPI+·+Streamlit;🔬+Data+→+Model+→+API+→+Dashboard+→+Production;🎯+2nd+Year+AI%2FML+Student+·+Summer+Internship+2026)](https://git.io/typing-svg)
 
@@ -478,7 +486,7 @@ Each as GitHub repo README embed + YouTube (unlisted)
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Full-Stack+AI+Systems&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Full-Stack%20AI%20Systems&fontSize=28&fontColor=ffffff" />
 
 <sub>⚡ Fintech · Legal AI · Medical Imaging | Full-Stack Systems Architect | Parth Kadian © 2026</sub>
 
