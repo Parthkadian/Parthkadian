@@ -1,8 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=gradient&color=gradient&customColorList=6,11,20&height=240&section=header&text=Parth%20Kadian&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=6E40C9&strokeWidth=2" />
-
-<div align="center">
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f1a"/>
+      <stop offset="100%" style="stop-color:#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A855F7"/>
+      <stop offset="50%" style="stop-color:#EC4899"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="118" rx="15" fill="none" stroke="url(#text-grad)" stroke-width="1.5" opacity="0.6"/>
+  <text x="450" y="52" font-family="'Courier New', monospace" font-size="13" fill="#6B7280" text-anchor="middle">class</text>
+  <text x="450" y="52" font-family="'Courier New', monospace" font-size="13" fill="#A855F7" text-anchor="middle" dx="27">ParthKadian</text>
+  <text x="450" y="52" font-family="'Courier New', monospace" font-size="13" fill="#6B7280" text-anchor="middle" dx="68">:</text>
+  <text x="450" y="78" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="url(#text-grad)" text-anchor="middle">Parth Kadian</text>
+  <text x="450" y="105" font-family="'Courier New', monospace" font-size="12" fill="#9CA3AF" text-anchor="middle">🛡️ Fintech AI  ·  ⚖️ Legal Intelligence  ·  🫁 Medical Imaging</text>
+</svg>
 
 ### 🚀 AI/ML Engineer | Full-Stack Systems | Fintech · Legal AI · Medical Imaging
 
@@ -72,8 +89,8 @@ class ParthKadian:
         return "I build complete, honest, production-ready systems—not just models in notebooks."
 ```
 
-> **I design end-to-end AI systems** — `data → model → API → dashboard → monitoring`.
-> **Medical imaging specialization** with rigorous evaluation pipelines and transparent metrics.
+> **I design end-to-end AI systems** — `data → model → API → dashboard → monitoring`.  
+> **Medical imaging specialization** with rigorous evaluation pipelines and transparent metrics.  
 > **Full-stack thinking**: training infrastructure, REST API design, interactive UIs, containerization.
 
 ---
@@ -383,63 +400,10 @@ Inference Engine
 
 ---
 
-## 🚀 Next Steps (2026 Roadmap)
-
-<details>
-<summary><b>📸 Demo Videos for All 3 Projects</b> — Click to expand</summary>
-
-**Fraud Detection:** 90-second walkthrough → Upload transaction → See risk score + audit trail
-**Legal Intelligence:** Upload contract → Extract entities + risk score + recommendations
-**PulmoVision AI:** Load chest X-ray → Generate mask → View dashboard metrics
-
-Each as GitHub repo README embed + YouTube (unlisted)
-**Impact:** Demo videos alone double interview callback rates
-
-</details>
-
-<details>
-<summary><b>🚀 Deploy All 3 Projects to Production</b> — Click to expand</summary>
-
-- **Fraud Detection:** Railway + Next.js frontend + PostgreSQL
-- **Legal Intelligence:** Vercel + Streamlit sharing
-- **PulmoVision:** Railway + full Indiana dataset training (expected Dice >0.85)
-- Add live demo links to README
-
-</details>
-
-<details>
-<summary><b>🌐 Personal Portfolio Website</b> — Click to expand</summary>
-
-- `parthkadian.dev` with live project demos
-- Embedded dashboards (Streamlit sharing) or video walkthroughs
-- Blog posts on ML engineering decisions
-- Signals to recruiters that you're serious
-
-</details>
-
-<details>
-<summary><b>🏅 Certifications</b> — Click to expand</summary>
-
-- TensorFlow Developer Certificate (Google)
-- AWS Certified ML Specialty
-- These act as trust signals for internship screening
-
-</details>
-
-<details>
-<summary><b>🤝 Open Source Contributions</b> — Click to expand</summary>
-
-- Merged PR to FastAPI, TensorFlow, or HuggingFace
-- Signals: you can navigate real codebases, write clean PRs, collaborate with senior engineers
-
-</details>
-
----
-
 ## 💼 What I'm Looking For
 
 - **Role:** AI/ML Summer Internship 2026
-- **Focus Areas:** 
+- **Focus Areas:**
   - 🫁 Medical AI / Healthcare Tech (imaging, diagnostics, clinical workflows)
   - 🛡️ Fintech / Risk Intelligence (fraud detection, anomaly detection, real-time scoring)
   - ⚖️ Legal Tech / Document Intelligence (NLP, contract analysis, regulatory compliance)
@@ -486,8 +450,9 @@ Each as GitHub repo README embed + YouTube (unlisted)
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Full-Stack%20AI%20Systems&fontSize=28&fontColor=ffffff" />
+### 🚀 Let's Build Production AI Systems Together
 
-<sub>⚡ Fintech · Legal AI · Medical Imaging | Full-Stack Systems Architect | Parth Kadian © 2026</sub>
+⚡ **Fintech · Legal AI · Medical Imaging** | Full-Stack Systems Architect  
+Parth Kadian © 2026
 
 </div>
