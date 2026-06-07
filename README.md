@@ -14,7 +14,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Gurugram-UTC%2B5:30-1a1a2e?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍_Faridabad-UTC%2B5:30-1a1a2e?style=flat-square&logoColor=white)
 ![Role](https://img.shields.io/badge/🎓_2nd_Year-AI_%26_ML_Student-7C3AED?style=flat-square)
 ![Focus](https://img.shields.io/badge/💡_Focus-FullStack_AI·Fintech·LegalAI·MedicalAI-0891b2?style=flat-square)
 ![Portfolio](https://img.shields.io/badge/⭐_Portfolio-3_Complete_Systems-f59e0b?style=flat-square)
@@ -25,7 +25,7 @@
 
 ## 🧬 About Me
 
-> I'm a **2nd Year B.Tech AI & ML student** from Gurugram, India, building **production-ready AI systems** across three domains — Fintech, Legal Tech, and Medical Imaging.
+> I'm a **2nd Year B.Tech AI & ML student** from Faridabad, India, building **production-ready AI systems** across three domains — Fintech, Legal Tech, and Medical Imaging.
 >
 > I don't just train models. I architect complete end-to-end systems: **data pipelines → model training → REST APIs → interactive dashboards → Docker deployment**. Every project I ship is honest, evaluated on real held-out data, and production-grade from day one.
 
@@ -33,7 +33,7 @@
 
 | 🎯 Currently | 🚀 Seeking | 🧠 Philosophy |
 |:---:|:---:|:---:|
-| Shipping PulmoVision AI — end-to-end lung segmentation | AI/ML Inter 2026 · Healthcare · Fintech · Legal | Data → Model → API → Dashboard → Production |
+| Shipping PulmoVision AI — end-to-end lung segmentation | AI/ML Intern 2026 · Healthcare · Fintech · Legal | Data → Model → API → Dashboard → Production |
 
 </div>
 
