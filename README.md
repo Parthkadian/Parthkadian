@@ -23,7 +23,7 @@
 
 ### 🚀 AI/ML Engineer | Full-Stack Systems | Fintech · Legal AI · Medical Imaging
 
-*2nd Year B.Tech Student · Summer Internship 2026 · Production-Ready AI Systems*
+*2nd Year B.Tech Student · Production-Ready AI Systems*
 
 </div>
 
@@ -400,19 +400,6 @@ Inference Engine
 
 ---
 
-## 💼 What I'm Looking For
-
-- **Role:** AI/ML Summer Internship 2026
-- **Focus Areas:**
-  - 🫁 Medical AI / Healthcare Tech (imaging, diagnostics, clinical workflows)
-  - 🛡️ Fintech / Risk Intelligence (fraud detection, anomaly detection, real-time scoring)
-  - ⚖️ Legal Tech / Document Intelligence (NLP, contract analysis, regulatory compliance)
-  - 🔧 MLOps / Production AI (API design, monitoring, deployment, observability)
-- **Location:** Open to on-site, hybrid, or fully remote
-- **Company types:** Healthtech startups, fintech platforms, legal-tech, AI research labs, enterprise ML teams
-- **Key values match:** Companies building production-grade systems, honest evaluation culture, end-to-end ownership
-
----
 
 ## 📬 Let's Connect
 
